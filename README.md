@@ -1,4 +1,4 @@
-# Emotion Detection App
+# Final project
 
 Proyecto Final — Desarrollo y Despliegue de Aplicaciones Web Basadas en IA  
 Autor: Pedro vargas  

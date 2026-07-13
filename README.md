@@ -1,7 +1,7 @@
 # Emotion Detection App
 
 Proyecto Final — Desarrollo y Despliegue de Aplicaciones Web Basadas en IA  
-Autor: Alejandro  
+Autor: Pedro vargas  
 Fecha: Julio 2026  
 
 ## Descripción
